@@ -98,14 +98,29 @@ Multi-tenant SaaS - custom domain per shop, Stripe deposits, SMS/email reminders
 
 ---
 
-### MotoRev · RingZero · Vaylo Music · CalPal
+### Vaylo Music - Streaming Platform
 
-| Product | What it is | Stack |
-|---|---|---|
-| **MotoRev** | iOS motorcycle app - GPS, crash detection, social, garage, watchOS | SwiftUI · Node.js · Socket.IO · Railway |
-| **RingZero** | AI receptionist - 24/7 answering, lead capture, booking | AI · Voice |
-| **Vaylo Music** | Music streaming platform with native iOS app | SwiftUI · Node.js |
-| **CalPal** | Shared calendar with AI screenshot event scanning | React Native · Expo · Claude AI |
+**Full music streaming platform with native iOS app.**
+
+Playback engine, catalog management, library management, mobile-first experience - built from scratch. SwiftUI front-end, Node.js backend, full audio delivery pipeline.
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat&logo=swift&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+
+---
+
+### CalPal - Shared Calendar
+
+**One calendar. Everyone on the same page.**
+
+Shared calendar for couples, families, and teams. AI-powered screenshot scanning extracts events directly from work schedules - no manual entry. View, edit, and admin permission levels per shared calendar.
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)&nbsp;
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
