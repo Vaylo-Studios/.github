@@ -24,7 +24,7 @@ Vaylo Studios is an AI software product studio operating under [47 Industries](h
 
 Every product in our portfolio is **live**, **in production**, and **generating revenue**. No MVPs left to rot. No prototypes. We ship.
 
-**Founded by Kyle** · Tampa Bay, FL
+**Founded by [kzzy](https://github.com/kzzy47)** · Tampa Bay, FL
 
 ---
 
