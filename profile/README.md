@@ -33,7 +33,7 @@ Every product in our portfolio is **live**, **in production**, and **generating 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050d1a,50:0a1628,100:050d1a&height=90&text=Products&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Production.%20Revenue.%20Real.&descSize=18&descColor=60a5fa&descAlignY=80" width="100%"/>
 </div>
 
-### Pulse - AI Operator OS
+### [Pulse](https://github.com/Vaylo-Studios/pulse) - AI Operator OS
 
 **The agent infrastructure Vaylo runs on - and deploys for clients.**
 
@@ -60,11 +60,11 @@ A NeuralOS workspace overlay that turns every Claude Code session into one canva
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)&nbsp;
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
 
-[![](https://img.shields.io/badge/Build_My_Pulse-1d4ed8?style=for-the-badge)](https://vaylostudios.com/learn/build-my-pulse)
+[github.com/Vaylo-Studios/pulse](https://github.com/Vaylo-Studios/pulse) &nbsp;·&nbsp; [![](https://img.shields.io/badge/Build_My_Pulse-1d4ed8?style=for-the-badge)](https://vaylostudios.com/learn/build-my-pulse)
 
 ---
 
-### LeadSlicer - B2B Outreach Automation
+### [LeadSlicer](https://github.com/Vaylo-Studios/LeadSlicer) - B2B Outreach Automation
 
 **Find leads. Write outreach. Close deals. On autopilot.**
 
@@ -76,11 +76,11 @@ AI-powered lead gen SaaS across Google Maps, Yelp, and Instagram. Personalized e
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)&nbsp;
 ![Apify](https://img.shields.io/badge/Apify-1DB954?style=flat)
 
-[![](https://img.shields.io/badge/leadslicer.com-1d4ed8?style=for-the-badge)](https://leadslicer.com)
+[github.com/Vaylo-Studios/LeadSlicer](https://github.com/Vaylo-Studios/LeadSlicer) &nbsp;·&nbsp; [![](https://img.shields.io/badge/leadslicer.com-1d4ed8?style=for-the-badge)](https://leadslicer.com)
 
 ---
 
-### BookFade - Barber Booking Platform
+### [BookFade](https://github.com/Vaylo-Studios/bookfade) - Barber Booking Platform
 
 **Smart booking software for barbers and barbershops.**
 
@@ -97,9 +97,11 @@ Multi-tenant SaaS - custom domain per shop, Stripe deposits, SMS/email reminders
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_for_SaaS-F38020?style=flat&logo=cloudflare&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
+[github.com/Vaylo-Studios/bookfade](https://github.com/Vaylo-Studios/bookfade) &nbsp;·&nbsp; [![](https://img.shields.io/badge/bookfade.com-1d4ed8?style=for-the-badge)](https://bookfade.com) &nbsp;[![](https://img.shields.io/badge/bookfade.app-6366f1?style=for-the-badge)](https://bookfade.app)
+
 ---
 
-### Vaylo Music - Streaming Platform
+### [Vaylo Music](https://github.com/Vaylo-Studios/vaylo-music) - Streaming Platform
 
 **Full music streaming platform with native iOS app.**
 
@@ -110,9 +112,11 @@ Playback engine, catalog management, library management, mobile-first experience
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
+[github.com/Vaylo-Studios/vaylo-music](https://github.com/Vaylo-Studios/vaylo-music)
+
 ---
 
-### CalPal - Shared Calendar
+### [CalPal](https://github.com/Vaylo-Studios/CalPal) - Shared Calendar
 
 **One calendar. Everyone on the same page.**
 
@@ -122,6 +126,8 @@ Shared calendar for couples, families, and teams. AI-powered screenshot scanning
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)&nbsp;
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+[github.com/Vaylo-Studios/CalPal](https://github.com/Vaylo-Studios/CalPal)
 
 ---
 
