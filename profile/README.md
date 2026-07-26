@@ -133,9 +133,9 @@ Shared calendar for couples, families, and teams. AI-powered screenshot scanning
 
 ### [The Inner Circle](https://vaylostudios.com/get/inner-circle) - The Operator Community
 
-**Learn to build the way we do. $47/mo.**
+**Learn to build the way we do. $47/mo or $397/yr.**
 
-Courses (44 lessons across business, technical build, and content), a 420-prompt production library, weekly live sessions, and direct mentorship from the team shipping everything above. Members run the same playbook Vaylo Studios runs.
+The full vault: 44 lessons across 4 tracks (business, technical, content, tools), a 420-prompt production library (325 premium), 100 published playbooks and field notes (18 premium), weekly live sessions with the recorded archive, a six-room private Discord, and direct mentorship from the team shipping everything above. Members also get $100 off their first Pulse month and $50/mo off for life.
 
 [![](https://img.shields.io/badge/Join_the_Inner_Circle-002FA7?style=for-the-badge)](https://vaylostudios.com/get/inner-circle) &nbsp;[![](https://img.shields.io/badge/Free_Starter_Kit-0038c7?style=for-the-badge)](https://vaylostudios.com/learn/starter-kit)
 
