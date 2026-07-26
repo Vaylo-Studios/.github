@@ -131,19 +131,45 @@ Shared calendar for couples, families, and teams. AI-powered screenshot scanning
 
 ---
 
+### [The Inner Circle](https://vaylostudios.com/get/inner-circle) - The Operator Community
+
+**Learn to build the way we do. $47/mo.**
+
+Courses (44 lessons across business, technical build, and content), a 420-prompt production library, weekly live sessions, and direct mentorship from the team shipping everything above. Members run the same playbook Vaylo Studios runs.
+
+[![](https://img.shields.io/badge/Join_the_Inner_Circle-002FA7?style=for-the-badge)](https://vaylostudios.com/get/inner-circle) &nbsp;[![](https://img.shields.io/badge/Free_Starter_Kit-0038c7?style=for-the-badge)](https://vaylostudios.com/learn/starter-kit)
+
+---
+
+### [Vaylo Studios Platform](https://github.com/Vaylo-Studios/vaylo-studios) - This Site
+
+**vaylostudios.com end to end: public site, Operator Hub, admin, and 1,200+ programmatic pages.**
+
+Next.js App Router monorepo running the storefront-free studio: the V2 design system (Klein #002FA7, ledgers, etches), the Inner Circle hub, partner and client portals, and the SEO fleet (industries, cities, AI-for pages) generated from data.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)&nbsp;
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)&nbsp;
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+
+[github.com/Vaylo-Studios/vaylo-studios](https://github.com/Vaylo-Studios/vaylo-studios) &nbsp;·&nbsp; [![](https://img.shields.io/badge/vaylostudios.com-002FA7?style=for-the-badge)](https://vaylostudios.com)
+
+---
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050d1a,50:0a1628,100:050d1a&height=70&text=Services&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 </div>
 
 | Service | Starting At |
 |---|---|
-| Build My Pulse - AI operator deployed on your infrastructure | Setup + $1,000/mo |
-| Web Systems - marketing sites, landing pages, platforms | $2,500 |
-| Web Apps & SaaS - full-stack, auth, payments, APIs | $15,000 |
-| AI Automation - agents, workflows, AI tooling | $400 |
-| iOS (Swift) - native iPhone + Apple Watch | $25,000 |
-| Cross-Platform - React Native iOS + Android | $20,000 |
-| Android (Kotlin) - native | $25,000 |
+| Pulse self-serve - the AI operator platform, on your machine | $500/mo |
+| Build My Pulse - deployed and configured for you in 2 weeks | Setup + $1,000/mo |
+| Web Systems - production marketing sites built to rank and convert | $5,000 |
+| Web Apps & SaaS - full-stack platforms with auth, payments, APIs | $15,000 |
+| Mobile Apps - native or React Native, App Store to handoff | $20,000 |
+| AI Automation - agents and workflows wired into your operation | $400 |
+| SEO Services - technical audits, consolidation, CTR work | Custom |
 
 ---
 
