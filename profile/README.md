@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:050d1a,50:0a1628,100:0d1f3c&height=60&section=header&text=&fontSize=0" width="100%"/>
 <img src="https://raw.githubusercontent.com/Vaylo-Studios/.github/main/profile/vaylo-logo.png" width="320" alt="Vaylo Studios"/>
 <br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=22&duration=2800&pause=1200&color=5B8CFF&center=true&vCenter=true&width=860&height=40&lines=Build+like+a+giant.+Live+like+one.;Every+product+is+live.+Every+system+earns+its+keep.;AI+%C2%B7+SaaS+%C2%B7+iOS+%C2%B7+Done-for-you.;Ship+or+die." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=22&duration=2800&pause=1200&color=5B8CFF&center=true&vCenter=true&width=860&height=40&lines=Build+like+a+giant.+Live+like+one.;AI+%C2%B7+SaaS+%C2%B7+iOS+%C2%B7+Done-for-you.;Ship+or+die." alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,7 @@
 
 Vaylo Studios is an AI software product studio operating under [47 Industries](https://47industries.com). We build production-grade products and deploy done-for-you AI systems for founders and businesses who want to move fast without breaking things.
 
-Every product in our portfolio is **live**, **in production**, and **generating revenue**. No MVPs left to rot. No prototypes. We ship.
+Every product in our portfolio is **live** and **in production**. No MVPs left to rot. No prototypes. We ship.
 
 **Founded by [kzzy](https://github.com/kzzy47)** · Tampa Bay, FL
 
@@ -103,7 +103,7 @@ Multi-tenant SaaS - custom domain per shop, Stripe deposits, SMS/email reminders
 
 ### [Vaylo Music](https://github.com/Vaylo-Studios/vaylo-music) - Streaming Platform
 
-**Full music streaming platform with native iOS app.**
+**Full music streaming platform with native iOS app, currently internal/invite-only.**
 
 Playback engine, catalog management, library management, mobile-first experience - built from scratch. SwiftUI front-end, Node.js backend, full audio delivery pipeline.
 
